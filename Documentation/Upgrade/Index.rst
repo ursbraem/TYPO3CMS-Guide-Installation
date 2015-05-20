@@ -34,6 +34,14 @@ important ones!)
    Think of users who might want to do any changes during your upgrading
    and/or fallback. Inform them **before** you start!
 
+.. note::
+
+   **Links to unofficial upgrade walkthroughs**
+
+   <https://jweiland.net/typo3/vortraege/typo3camp-berlin-2014.html>
+   <http://stackoverflow.com/questions/28675796/how-to-upgrade-typo3-4-5-to-6-2>
+
+
 Basically these are the steps to be done to update your TYPO3 site:
 
 
